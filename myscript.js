@@ -54,7 +54,9 @@ $(document).ready(function () {
   $("#15").children("textarea").val(localStorage.getItem("saveButton7"));
   $("#16").children("textarea").val(localStorage.getItem("saveButton8"));
   $("#17").children("textarea").val(localStorage.getItem("saveButton9"));
-
+  $("#18").children("textarea").val(localStorage.getItem("saveButton10"));
+  $("#19").children("textarea").val(localStorage.getItem("saveButton11"));
+  $("#20").children("textarea").val(localStorage.getItem("saveButton12"));
 
   trackerTime();
   //end line
