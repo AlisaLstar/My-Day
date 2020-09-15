@@ -72,3 +72,8 @@ textarea{
   transition: all .3s ease-in-out;
   text-align: center;
 }
+
+.footer {
+  border-top: 80px;
+  border-color: #61daff;
+}
